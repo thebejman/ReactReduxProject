@@ -1,0 +1,25 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+.dialogsItems {
+    padding: 30px;
+}
+.dialog img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.userName {
+    text-decoration: none;
+}
+.messages {
+    padding: 30px;
+}
+.message {
+    border: 1px solid #000;
+    padding: 20px;
+    width: 100px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
