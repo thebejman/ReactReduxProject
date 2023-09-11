@@ -1,3 +1,13 @@
-Add your first name : Andrei
-
-Add the name of the certification : Frontend
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
